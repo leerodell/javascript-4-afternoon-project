@@ -107,7 +107,7 @@ class ProgressiveManager extends Manager{
       else if (this.reports >= 1 && this.reports <= 3){
         return title = "Barely Manager"
       }
-      
+      //...etc
      
   }
   }
